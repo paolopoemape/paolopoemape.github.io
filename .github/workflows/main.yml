@@ -8,7 +8,7 @@ on:
     paths:
       - 'doc.tex'
       - 'pdfjs/**'
-      - '.github/workflows/blank.yml'
+      - '.github/workflows/main.yml'
   pull_request:
     branches: [ main ]
     paths:
